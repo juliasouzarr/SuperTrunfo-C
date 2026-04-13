@@ -1,27 +1,27 @@
-# 🃏 Super Trunfo em C
+# 🃏 Super Trunfo Game in C
 
-Projeto desenvolvido em **linguagem C** como parte de uma atividade da faculdade para praticar conceitos fundamentais da linguagem.
+Project developed in **C language** as part of a college assignment to practice fundamental programming concepts.
 
-O programa permite **cadastrar duas cartas de cidades**, calcular atributos derivados e realizar a **comparação automática entre elas**, indicando qual carta vence em cada critério.
+The program allows the user to **register two city cards**, calculate derived attributes, and perform an **automatic comparison between them**, indicating which card wins in each criterion.
 
-## ⚙️ O que o programa faz
+## ⚙️ What the program does
 
-* Cadastro de duas cidades
-* Cálculo automático de atributos
-* Exibição completa dos dados cadastrados
-* Comparação entre as cartas atributo por atributo
-* Indicação da carta vencedora em cada categoria
+* Registers two cities
+* Automatically calculates attributes
+* Displays all registered data
+* Compares the cards attribute by attribute
+* Indicates the winning card in each category
 
-## 🧠 Melhorias implementadas por mim
+## 🧠 Improvements implemented by me
 
-Além da proposta original da atividade, fiz algumas melhorias para deixar o código **mais limpo, organizado e prático**:
+In addition to the original assignment requirements, I made some improvements to make the code **cleaner, more organized, and more practical**:
 
-* Uso de **`struct`** para organizar todos os dados da carta
-* Separação do código em **funções específicas**:
-* Uso de **laços de repetição** para evitar repetição de código
+* Use of **`struct`** to organize all card data
+* Separation of the code into **specific functions**
+* Use of **loops** to avoid code repetition
 
-## 📚 Repositório da atividade original
+## 📚 Original assignment repository
 
-Projeto base disponibilizado pelo curso:
+Base project provided by the course:
 
 https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo
